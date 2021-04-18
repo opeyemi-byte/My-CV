@@ -1,0 +1,22 @@
+*{
+    font-family: initial;
+    background-color: rgb(185, 149, 218);
+}
+
+.top-head{
+    font-size: 10px;
+}
+
+.top-head p{
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.bg-div p{
+    font-size: 15px;
+}
+
+.edu-div, .work-div, .work-div-2, .per-div, .soft-div, .ref-div, .int-div{
+    font-size: 15px;
+}
+
